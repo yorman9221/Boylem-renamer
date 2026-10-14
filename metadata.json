@@ -1,0 +1,6 @@
+{
+  "name": "BoylemRenamer",
+  "description": "BoylemRenamer - Aplicación web moderna para renombrar archivos masivamente e intercalar grupos automáticamente con vista previa en tiempo real y exportación ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
